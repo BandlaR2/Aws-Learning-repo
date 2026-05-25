@@ -9,7 +9,6 @@ Benefits:
 - Collaborate with teams
 - Backup projects
 - Track changes
-
 ---
 
 # Creating a GitHub Repository
