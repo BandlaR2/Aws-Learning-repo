@@ -1,6 +1,6 @@
 # Introduction to Version Control
 
-#### 1. What is Version Control?
+### 1. What is Version Control?
 
 Version Control is a system that manages different versions of files such as code and documents.
 
@@ -10,7 +10,7 @@ It keeps track of changes over time and allows you to:
 - View the history of changes
 - Restore older versions if needed
 
-#### 2. Understanding "Versions"
+### 2. Understanding "Versions"
 
 A version is simply a new state of something after changes.
 
@@ -25,7 +25,7 @@ A version is simply a new state of something after changes.
 - WhatsApp v2.21 → Added voice calls
 - WhatsApp v2.22 → Bug fixes
 
-#### 3. Why Version Control?
+### 3. Why Version Control?
 
 - Multiple developers can work together
 - Prevents overwriting others' code
@@ -33,7 +33,7 @@ A version is simply a new state of something after changes.
 - Can restore old versions
 - Keeps source code safe
 
-#### 4. What is Git?
+### 4. What is Git?
 
 **Git** is a Version Control System (VCS).
 
@@ -45,7 +45,7 @@ With Git, developers can:
 - Create and manage multiple versions
 - Work collaboratively without disturbing others' code
 
-#### 5. Example Scenario
+### 5. Example Scenario
 
 Imagine a team of 10 developers building an online shopping application.
 
